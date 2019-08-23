@@ -9,7 +9,7 @@ This example uses Fire, Logs and Water:
 
 ![screenshot](images/rps-fire.png)
 
-
+Go to the next project on the Module pathway: 'Turtle Race!'
 
 
 --- /challenge ---
