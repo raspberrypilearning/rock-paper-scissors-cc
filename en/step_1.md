@@ -57,6 +57,7 @@ You can also find a completed version of this project in the 'Volunteer Resource
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
 + [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
++ Understand the skills which are developed towards a career involving Computing
 
 ## Challenges
 + "ASCII art" - Use conditional logic to display ASCII art for rock, paper and scissors. 
