@@ -13,3 +13,5 @@ Go to the next project on the Module pathway: 'Turtle Race!'
 
 
 --- /challenge ---
+
+![progress bar](images/p1-2.png)
